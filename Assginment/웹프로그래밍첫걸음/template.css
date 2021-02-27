@@ -1,0 +1,15 @@
+* {font-family: 'Nanum Gothic', serif;}
+hr {width:1500px; size:10px;}
+table {text-align:center;}
+
+.small_menu {width:20px; hegiht:20px;}
+.white{color:white;}
+.black_box{width:1500px; background:black;}
+.menu {width:490px;}
+.cover {width:1500px;}
+
+li.youtube{list-style-image: url("youtube.png");}
+
+#face_pic {width:100px; height:100px;}
+#bookmark {text-align: left;}
+#copy {color:gray; font-size:small;}
